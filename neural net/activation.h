@@ -2,6 +2,7 @@
 
 #include "numcpp.h"
 
+//dense layer
 namespace neural_net {
 
 	struct ActivationReLU

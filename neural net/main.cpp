@@ -1,3 +1,4 @@
+//https://github.com/HippozHipos/neural-net/tree/master/neural%20net
 #include "layer.h"
 #include "activation.h"
 #include "numcpp.h"

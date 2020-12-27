@@ -58,7 +58,7 @@ namespace numcpp {
 		}
 	};
 
-	//Matrix -> contains a std::vector that holds a bunch of numcpp::Vd 
+	//Matrix -> contains a std::vector that holds a bunch of numcpp::Vf
 	//row by column
 	struct Mf 
 	{
